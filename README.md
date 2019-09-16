@@ -1,6 +1,11 @@
 # web-client
 Vue app for the client
 
+# How to install
+1. Clone the repo by typing ```git clone https://github.com/maught/maught-web-client.git``` in your terminal.
+1. Go into the **maught-web-client** directory and run ```npm i``` to install the dependencies.
+
+
 ## Project setup
 ```
 npm install
